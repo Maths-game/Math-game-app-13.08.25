@@ -1,4 +1,3 @@
-# Math-game-app-13.08.25
 import React, { useState, useEffect, useRef } from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
 
